@@ -1,0 +1,245 @@
+Pattern index, jth pattern, Matching words and its location range(s)
+
+1, an,
+        Fouriertoottanalysis (13-14);
+        ImagingSwissRanger (14-15);
+        Periodicand (9-10);
+        ToFseassnrange (11-12);
+        aaasinanovel (7-8);
+        andorzrro (1-2);
+        approrzrrooachan (15-16);
+        cameranotably (6-7);
+        finallyananalysis (8-9);
+        finallyananalysis (10-11);
+        firstanalgorithm (6-7);
+        itcanbeused (4-5);
+        jitteronrange (10-11);
+        ontiontirange (10-11);
+        randomjitter (2-3);
+        randomjitter (2-3);
+        rangeimaging (2-3);
+        receiverand (9-10);
+        rectjittjiterangular (14-15);
+        signalwithany (11-12);
+        techniquesand (11-12);
+        trianseassngular (4-5);
+
+2, ana,
+        Fouriertoottanalysis (13-15);
+        finallyananalysis (8-10);
+        finallyananalysis (10-12);
+        firstanalgorithm (6-8);
+
+3, seassn,
+        ToFseassnrange (4-9);
+        cameraseassns (7-12);
+        camerasseassn (8-13);
+        sinusoidalseassn (11-16);
+        trianseassngular (6-11);
+        twoseassnToF (4-9);
+
+4, su,
+        isusedto (2-3);
+        measurement (4-5);
+        measurement (4-5);
+        measurementof (4-5);
+        measurethe (4-5);
+        tomeasure (6-7);
+        toottoisused (8-9);
+
+5, on,
+        Amongthethree (3-4);
+        USBdongle (5-6);
+        amounttiontiof (9-10);
+        basedupon (8-9);
+        contributions (2-3);
+        contributions (11-12);
+        contributionsa (2-3);
+        contributionsa (11-12);
+        extraction (9-10);
+        jitterextraction (15-16);
+        jitteronrange (7-8);
+        ofationticommon (6-7);
+        ofationticommon (14-15);
+        onamodulated (1-2);
+        ontiontirange (1-2);
+        ontiontirange (5-6);
+        radiotiontiSDR (8-9);
+        secondlythe (4-5);
+
+6, th,
+        Amongthethree (6-7);
+        Amongthethree (9-10);
+        DepthSense (4-5);
+        Thejittjitermethod (15-16);
+        algorithmfor (7-8);
+        algorithmis (7-8);
+        bythreemain (3-4);
+        cameraswith (10-11);
+        firstanalgorithm (14-15);
+        fromdepth (8-9);
+        inthejittjitelight (3-4);
+        jitterinthe (9-10);
+        jitterinthe (9-10);
+        measurethe (8-9);
+        method (3-4);
+        ofjittjiterthe (12-13);
+        ofthisresearch (3-4);
+        ofthisthesis (3-4);
+        ofthisthesis (7-8);
+        oftoottoboth (11-12);
+        proposedalgorithm (15-16);
+        secondlythe (9-10);
+        signalwithany (9-10);
+        theMESAtootto (1-2);
+        theaorzrrobove (1-2);
+        theeffect (1-2);
+        thejitterpresent (1-2);
+        toextractthe (10-11);
+        withoutaccess (3-4);
+        withsignalprocessing (3-4);
+        withthe (3-4);
+        withthe (5-6);
+        worsewith (8-9);
+
+7, orzrro,
+        Nextorzrroorzrro (5-10);
+        Nextorzrroorzrro (11-16);
+        andorzrro (4-9);
+        approrzrrooachan (5-10);
+        soorzrrources (3-8);
+        theaorzrrobove (5-10);
+        wereorzrrofound (5-10);
+
+8, tt,
+        Fouriertoottanalysis (11-12);
+        Thejittjitermethod (6-7);
+        amounttiontiof (6-7);
+        forjitter (6-7);
+        inthejittjitelight (8-9);
+        jitterbyorzrr (3-4);
+        jitterextraction (3-4);
+        jitterinthe (3-4);
+        jitterinthe (3-4);
+        jitteronrange (3-4);
+        jittjiterofjitter (3-4);
+        jittjiterofjitter (14-15);
+        ofjittjiterthe (5-6);
+        ofpstootto (8-9);
+        oftoottoboth (6-7);
+        randomjitter (9-10);
+        randomjitter (9-10);
+        rectjittjiterangular (7-8);
+        theMESAtootto (11-12);
+        thejitterpresent (6-7);
+        toextractthe (9-10);
+        toottoisused (4-5);
+        usingasoftjittjiterware (13-14);
+
+9, tootto,
+        ofpstootto (5-10);
+        oftoottoboth (3-8);
+        theMESAtootto (8-13);
+        toottoisused (1-6);
+
+10, and,
+        Periodicand (9-11);
+        andorzrro (1-3);
+        randomjitter (2-4);
+        randomjitter (2-4);
+        receiverand (9-11);
+        techniquesand (11-13);
+
+11, ter,
+        Thejittjitermethod (10-12);
+        alternative (3-5);
+        forjitter (7-9);
+        jitterbyorzrr (4-6);
+        jitterextraction (4-6);
+        jitterinthe (4-6);
+        jitterinthe (4-6);
+        jitteronrange (4-6);
+        jittjiterofjitter (7-9);
+        jittjiterofjitter (15-17);
+        ofjittjiterthe (9-11);
+        randomjitter (10-12);
+        randomjitter (10-12);
+        rectjittjiterangular (11-13);
+        thejitterpresent (7-9);
+        usingasoftjittjiterware (17-19);
+
+12, con,
+        contributions (1-3);
+        contributionsa (1-3);
+        secondlythe (3-5);
+
+13, the,
+        Amongthethree (6-8);
+        inthejittjitelight (3-5);
+        jitterinthe (9-11);
+        jitterinthe (9-11);
+        measurethe (8-10);
+        ofjittjiterthe (12-14);
+        ofthisthesis (7-9);
+        secondlythe (9-11);
+        theMESAtootto (1-3);
+        theaorzrrobove (1-3);
+        theeffect (1-3);
+        thejitterpresent (1-3);
+        toextractthe (10-12);
+        withthe (5-7);
+
+14, ref,
+        toareference (4-6);
+
+15, tionti,
+        amounttiontiof (7-12);
+        ofationticommon (4-9);
+        ontiontirange (3-8);
+        radiotiontiSDR (6-11);
+
+16, mera,
+        cameranotably (3-6);
+        cameraseassns (3-6);
+        camerasseassn (3-6);
+        cameraswith (3-6);
+        imagingcameras (10-13);
+
+17, tter,
+        forjitter (6-9);
+        jitterbyorzrr (3-6);
+        jitterextraction (3-6);
+        jitterinthe (3-6);
+        jitterinthe (3-6);
+        jitteronrange (3-6);
+        jittjiterofjitter (14-17);
+        randomjitter (9-12);
+        randomjitter (9-12);
+        thejitterpresent (6-9);
+
+18, jitter,
+        forjitter (4-9);
+        jitterbyorzrr (1-6);
+        jitterextraction (1-6);
+        jitterinthe (1-6);
+        jitterinthe (1-6);
+        jitteronrange (1-6);
+        jittjiterofjitter (12-17);
+        randomjitter (7-12);
+        randomjitter (7-12);
+        thejitterpresent (4-9);
+
+19, asur,
+        measurement (3-6);
+        measurement (3-6);
+        measurementof (3-6);
+        measurethe (3-6);
+        tomeasure (5-8);
+
+20, jittjiter,
+        Thejittjitermethod (4-12);
+        jittjiterofjitter (1-9);
+        ofjittjiterthe (3-11);
+        rectjittjiterangular (5-13);
+        usingasoftjittjiterware (11-19);
+
