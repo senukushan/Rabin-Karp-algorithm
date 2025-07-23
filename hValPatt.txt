@@ -1,0 +1,21 @@
+Index,  jth Pattern,  Hash Value for jth Pattern 
+1, an, 96 
+2, ana, 29 
+3, seassn, 57 
+4, su, 65 
+5, on, 44 
+6, th, 5 
+7, orzrro, 74 
+8, tt, 17 
+9, tootto, 77 
+10, and, 32 
+11, ter, 20 
+12, con, 70 
+13, the, 68 
+14, ref, 34 
+15, tionti, 44 
+16, mera, 31 
+17, tter, 95 
+18, jitter, 42 
+19, asur, 69 
+20, jittjiter, 20
